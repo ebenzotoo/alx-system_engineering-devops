@@ -1,1 +1,1 @@
-script that switches the current user
+switching user from the current
