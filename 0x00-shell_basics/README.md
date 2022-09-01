@@ -1,1 +1,1 @@
-copy html files
+move all files beginning with an uppercase letter
