@@ -1,2 +1,2 @@
 #!/bin/bash
-!:mime Schhol
+file -C -m school.mgc
