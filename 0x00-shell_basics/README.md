@@ -1,1 +1,1 @@
-move all files beginning with an uppercase letter
+move all files from beginning
