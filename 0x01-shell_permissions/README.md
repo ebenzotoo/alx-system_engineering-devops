@@ -1,1 +1,1 @@
-script that chane the group owner
+script that changes owner to vincent and group owner
