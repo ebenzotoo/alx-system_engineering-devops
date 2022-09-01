@@ -1,1 +1,1 @@
-delete all files in emacs
+creating welcome to school directory
