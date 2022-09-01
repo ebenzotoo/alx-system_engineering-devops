@@ -1,1 +1,1 @@
-move all files from beginning
+delete all files in emacs
