@@ -1,1 +1,1 @@
-hidden files
+script that creates directory
