@@ -1,1 +1,1 @@
-creating welcome to school directory
+lists files and directories
