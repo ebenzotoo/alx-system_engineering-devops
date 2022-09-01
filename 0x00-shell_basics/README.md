@@ -1,1 +1,1 @@
-script that creates directory
+my first directory
