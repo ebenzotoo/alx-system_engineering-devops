@@ -1,1 +1,1 @@
-lists files and directories
+magic file
