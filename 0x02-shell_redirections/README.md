@@ -1,1 +1,1 @@
-create list of words as input
+display lines containing the pattern
