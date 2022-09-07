@@ -1,1 +1,1 @@
-replace all characters
+script that removes all letters
