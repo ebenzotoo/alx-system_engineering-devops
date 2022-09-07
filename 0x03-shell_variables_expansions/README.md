@@ -1,1 +1,1 @@
-create script
+script that list variables
