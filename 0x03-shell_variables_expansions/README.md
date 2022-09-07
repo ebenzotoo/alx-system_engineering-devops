@@ -1,1 +1,1 @@
-create a script 
+script that prints results
