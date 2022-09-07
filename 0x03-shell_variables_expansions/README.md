@@ -1,1 +1,1 @@
-script that converts number
+script that prints all combinations
