@@ -1,1 +1,1 @@
-script that displays the result
+script that converts number
