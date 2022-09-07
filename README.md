@@ -1,1 +1,1 @@
-current working directory
+display content of paaswd

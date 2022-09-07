@@ -1,1 +1,1 @@
-script for hello world
+script to display the content of passwd
