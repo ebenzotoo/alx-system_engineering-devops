@@ -1,1 +1,1 @@
-script that list variables
+list all local variables
