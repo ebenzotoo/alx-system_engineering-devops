@@ -1,1 +1,1 @@
-script for file
+write into a file
