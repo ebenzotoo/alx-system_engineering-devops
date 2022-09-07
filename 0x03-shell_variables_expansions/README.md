@@ -1,1 +1,1 @@
-script that converts a number
+script that encodes and decodes
