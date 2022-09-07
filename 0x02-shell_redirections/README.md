@@ -1,1 +1,1 @@
-display all gifs
+acrostic readme
