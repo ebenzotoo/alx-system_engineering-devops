@@ -1,1 +1,1 @@
-add action to path
+create script
