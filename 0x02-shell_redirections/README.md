@@ -1,1 +1,1 @@
-task 12 readme
+create list of words as input
