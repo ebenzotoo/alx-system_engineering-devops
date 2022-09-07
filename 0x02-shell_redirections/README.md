@@ -1,1 +1,1 @@
-display gifs
+display all gifs
