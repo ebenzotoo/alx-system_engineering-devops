@@ -1,1 +1,1 @@
-display third line
+script for file
